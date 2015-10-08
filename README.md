@@ -2,7 +2,7 @@
 Simple Bootstrap (Left) Slide Menu
 
 USAGE:
-            <head>
+                <head>
                 <meta charset="utf-8" />
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
                 <title>TITLE</title>
@@ -15,8 +15,7 @@ USAGE:
                 
                 <!-- bootstrap-left-slide-menu css -->
                 <link rel="stylesheet" href="bootstrap-left-slide-menu.css">
-            
-            </head>
+                </head>
             <body>
                 <div id="wrapper" class="">
                     <div class="overlay" style="display: none;"></div>
