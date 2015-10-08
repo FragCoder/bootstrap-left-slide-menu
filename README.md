@@ -1,7 +1,7 @@
 # bootstrap-left-slide-menu
 Simple Bootstrap (Left) Slide Menu
 
-http://jsfiddle.net/y3gfxm4c/2/
+https://jsfiddle.net/fragcoder/knkd8q1g/
 
 USAGE:
 
